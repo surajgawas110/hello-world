@@ -5,4 +5,9 @@
 Changes done uploaded to GitHub!!!
 
 
+
 Deploying on container after changes are done!!
+
+
+
+after adding new things to Asible : deleting old images + container
