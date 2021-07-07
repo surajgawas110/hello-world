@@ -4,6 +4,7 @@
 
 Changes done uploaded to GitHub!!!
 
+  Kubernetes Magic!!!
 
 
 Deploying on container after changes are done!!
